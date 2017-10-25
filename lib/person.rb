@@ -9,4 +9,3 @@ def walk
 end
 
 end
-
